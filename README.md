@@ -2,7 +2,7 @@
  
 <div align="center">
  
-<img src="./assets/hero.jpg" alt="Backend Systems & Infrastructure" width="600" height="auto"/>
+<img src="./assets/hero.jpg" alt="Hero" width="1000" height="300"/>
  
 **Software Engineer — Backend Systems, APIs, and Operational Infrastructure**
  
