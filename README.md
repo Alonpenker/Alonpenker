@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**⚙️ Software Engineer — Backend Systems, APIs, and Operational Infrastructure**
+**⚙️ Software Engineer - Backend Systems, APIs, and Operational Infrastructure**
 
 Building backend services, data integrations, and automation tooling in high-responsibility environments.
 Infrastructure-aware development grounded in Python, Linux, and production systems.
