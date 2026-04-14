@@ -5,6 +5,7 @@
 **⚙️ Software Engineer - Backend Systems, APIs, and Operational Infrastructure**
 
 Building backend services, data integrations, and automation tooling in high-responsibility environments.
+Backend-focused with strong capabilities in designing and delivering full-stack applications.
 Infrastructure-aware development grounded in Python, Linux, and production systems.
 
 [**→ Full Portfolio**](https://alon-penker.vercel.app/)
@@ -20,6 +21,11 @@ Infrastructure-aware development grounded in Python, Linux, and production syste
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**Frontend** &nbsp;  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 **Databases & Caching** &nbsp;
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
