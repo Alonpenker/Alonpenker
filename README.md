@@ -57,4 +57,6 @@ Infrastructure-aware development grounded in Python, Linux, and production syste
 
 📬 [Email](mailto:alonpenker@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/alon-penker) · 🌐 [Portfolio](https://alon-penker.vercel.app/)
 
+<img src="./pixel-art-gaming-pc.gif" alt="Pixel Art Gaming PC" width="600"/>
+
 </div>
